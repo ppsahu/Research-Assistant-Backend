@@ -9,9 +9,6 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 import org.springframework.beans.factory.annotation.Value;
 
-// gemini.api.url=https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=
-// gemini.api.key=AIzaSyCDzBF2eMkwhWQzYvxp3CzYM9WMg7PWDPI
-
 @Service
 public class ResearchService {
 
