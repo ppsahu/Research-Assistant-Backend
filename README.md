@@ -43,13 +43,13 @@ Built using **Spring-Boot**, **JAVA**, **Lombok** and  **Gemini API** this backe
 ---
 
 ## 🛠️ Tech Stack
-Backend: Java, Spring Boot
-Frontend: HTML5, CSS3, Bootstrap 5, JavaScript
+- Backend: Java, Spring Boot
+- Frontend: HTML5, CSS3, Bootstrap 5, JavaScript
 
 ---
 
 ## 🔧 How to Run the Project Locally
-Follow these simple steps to set up and run the project on your local machine.
+- Follow these simple steps to set up and run the project on your local machine.
 
 ---
 
@@ -64,7 +64,7 @@ Web browser (Chrome)
 - git clone https://github.com/ppsahu/Research-Assistant-Backend.git
 - Go to target/classes/com/application.properties, add these 2 lines
     - gemini.api.url=https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=
-    - gemini.api.key==<YOUR GEMINI API KEY>
+    - gemini.api.key== **YOUR GEMINI API KEY**
 - How to Get your Gemini API Key - https://aistudio.google.com/ -> Click on **Get API key**
 - Run ResearchAssistantApplication.java file
 - Download the Frontend repository to your local system.
