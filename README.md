@@ -1,4 +1,4 @@
-# 🧠 Research Assistant Backend | Spring-Boot, Java
+# 🧠 AI Powered Research Assistant Backend | Spring-Boot, Java
 
 This is the backend API for the **Research Assistant Chrome Extension**, a productivity tool designed to help users capture, organize, and retrieve research notes, web highlights, and ideas directly from the browser.
 
@@ -6,7 +6,7 @@ This is the backend API for the **Research Assistant Chrome Extension**, a produ
 
 🎬 Video Demo -
 
-Link - https://drive.google.com/file/d/13Am1j4LzPoo0bgube--jpELhMd-Zjs1r/view?usp=sharing
+Link - https://drive.google.com/file/d/1q8bvcvKk-K8rlH-A3o-iRHgr6oWKXq1D/view?usp=sharing
 
 ---
 
